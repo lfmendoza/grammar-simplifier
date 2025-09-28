@@ -36,7 +36,7 @@ Ver docs/procedimiento.pdf (incluye validación por regex, eliminación de ε, u
 
 ---
 
-# Indicaciones finales para el **video** (Problema 1)
+# Punto a aborddar (Problema 1)
 
 1. Muestra `g1.txt` válido.
 2. Corre el programa: se ven los **4 pasos** y la **CNF** resultante.
